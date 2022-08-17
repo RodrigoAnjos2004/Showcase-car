@@ -14,5 +14,4 @@ It is possible to change the car .glb file to another model while in landscape i
 - [Demonstration](https://youtu.be/rMTEBAupJe4)
 
 
- - to "celebrate" 1 year of profile
 
